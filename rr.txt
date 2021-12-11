@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi i am modi
 for practice i need to change
+=======
+>>>>>>> parent of e93a87a (123)
